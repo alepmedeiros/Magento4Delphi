@@ -1,2 +1,1 @@
-# DMagento
-Biblioteca de integração Magento para Delphi
+# Biblioteca de integração Magento para Delphi
